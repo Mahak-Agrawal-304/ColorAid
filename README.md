@@ -41,7 +41,7 @@
 1. **Install requirements:**
 ```bash
 pip install torch torchvision gradio scikit-image opencv-python
-pip install 'git+https://github.com/facebookresearch/detectron2.git'
+pip install 'git+https://github.com/Mahak-Agrawal-304/ColorAid.git'
 
 ```
 
