@@ -1,4 +1,4 @@
-##ColorAid: AI-Based Image Enhancement for Color Vision Deficiency
+## ColorAid: AI-Based Image Enhancement for Color Vision Deficiency
 **ColorAid** is an intelligent image enhancement system designed to improve visual accessibility for people with color vision deficiencies (CVD). By combining **Detectron2** for semantic object detection with advanced color science metrics, it automatically identifies visually confusing regions and enhances their distinguishability.
 
 ---
