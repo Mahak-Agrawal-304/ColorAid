@@ -4,20 +4,10 @@
 ---
 
 ### Key Features
-*
-**CVD Simulation:** Accurately simulates 8 types of color blindness, including Protanopia, Deuteranopia, and Tritanopia.
-* 
-**AI Object Detection:** Leverages **Mask R-CNN** via Detectron2 to segment objects and understand image context.
-
-
-* 
-**Perceptual Analysis:** Uses the **CIEDE2000 (\Delta E)** metric to identify objects that appear too similar to the user.
-
-
-* 
-**Adaptive Enhancement:** Performs localized color shifts in the **LAB color space** to maximize contrast while preserving aesthetics.
-
-
+* **CVD Simulation:** Accurately simulates 8 types of color blindness, including Protanopia, Deuteranopia, and Tritanopia.
+* **AI Object Detection:** Leverages **Mask R-CNN** via Detectron2 to segment objects and understand image context.
+* **Perceptual Analysis:** Uses the **CIEDE2000 (\Delta E)** metric to identify objects that appear too similar to the user.
+* **Adaptive Enhancement:** Performs localized color shifts in the **LAB color space** to maximize contrast while preserving aesthetics.
 * **Auto-Tuning:** Features an automated parameter search to find the optimal enhancement settings for any specific image.
 
 ---
