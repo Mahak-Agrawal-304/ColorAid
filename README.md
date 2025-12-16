@@ -14,28 +14,12 @@
 
 ### Dependencies To run ColorAid, you need the following libraries:
 
-* 
-`torch`, `torchvision` (Deep learning backend) 
-
-
-* 
-`detectron2` (Object detection framework) 
-
-
-* 
-`gradio` (Web interface) 
-
-
-* 
-`opencv-python` (Image processing) 
-
-
-* 
-`scikit-image` (Color space conversions and \Delta E metrics) 
-
-
-* 
-`numpy`, `matplotlib`, `pandas` (Data handling and visualization) 
+* `torch`, `torchvision` (Deep learning backend) 
+* `detectron2` (Object detection framework) 
+* `gradio` (Web interface) 
+* `opencv-python` (Image processing) 
+* `scikit-image` (Color space conversions and \Delta E metrics) 
+* `numpy`, `matplotlib`, `pandas` (Data handling and visualization) 
 
 
 
@@ -70,5 +54,3 @@ python ColorAid.py
 
 
 3. **Access the UI:** Open the local URL provided by Gradio to upload images and run the enhancement.
-
-Would you like me to add a "Troubleshooting" section to this README based on the code's error handling?
