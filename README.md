@@ -25,7 +25,8 @@
 
 ---
 
-### Function Documentation| Function | Description |
+### Function Documentation
+| Function | Description |
 | --- | --- |
 | `simulate_color_blindness` | Applies transformation matrices to an image to simulate specific CVD types. |
 | `detect_objects` | Uses a Predictor to identify object instances and generate segmentation masks/edges. |
